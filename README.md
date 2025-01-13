@@ -6,21 +6,21 @@ Welcome to my Security Blue Team learning journey! This repository documents my 
 Below is an overview of my progress in the training courses:
 
 ### **Training Courses**
-| Course Name                           | Progress |
-|---------------------------------------|----------|
-| Introduction to Network Analysis      | 100%     |
-| Introduction to OSINT                 | 100%     |
-| Introduction to Digital Forensics     | 100%     |
-| Introduction to Dark Web Operations   | 84%      |
-| Introduction to Threat Hunting        | 100%     |
-| Introduction to Vulnerability Management | 100%  |
-| Mental Health in Cybersecurity        | 100%     |
-| Blue Team Junior Analyst Pathway Bundle | 100%   |
-| Introduction to Virtual Machines      | 100%     |
-| Cybersecurity Interview Preparation   | 100%     |
+| Course Name                           | Completion Date|
+|---------------------------------------|----------------|
+| Introduction to Network Analysis      | 2024-05-29     |
+| Introduction to OSINT                 | 2024-07-30     |
+| Introduction to Digital Forensics     | 2024-07-24     |
+| Introduction to Dark Web Operations   | 2024-05-28     |
+| Introduction to Threat Hunting        | 2024-07-31     |
+| Introduction to Vulnerability Management | 2024-07-31  |
+| Mental Health in Cybersecurity        | 2024-08-02     |
+| Blue Team Junior Analyst Pathway Bundle | 2024-07-31   |
+| Introduction to Virtual Machines      | 2024-05-28     |
+| Cybersecurity Interview Preparation   | 2024-05-28     |
 | Introduction to Python                | 22%      |
 | Introduction to Bash                  | 0%       |
-| Introduction to PowerShell            | 100%     |
+| Introduction to PowerShell            | 2024-10-23     |
 
 ---
 
