@@ -17,7 +17,7 @@ Below is an overview of my progress in the training courses:
 | [Mental Health in Cybersecurity](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Mental%20Health%20in%20Cybersecurity-course.pdf)        | 08/02/2024     |
 | [Blue Team Junior Analyst Pathway Bundle](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf) | 07/31/2024   |
 | [Introduction to Virtual Machines](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Virtual%20Machines-course.pdf)      | 05/28/2024    |
-| [Introduction to PowerShell](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)            | 10/3/2024    |
+| [Introduction to PowerShell](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)            | 10/03/2024    |
 | Cybersecurity Interview Preparation   | 05/28/2024    |
 | Introduction to Python                | 22%      |
 | Introduction to Bash                  | 0%       |
