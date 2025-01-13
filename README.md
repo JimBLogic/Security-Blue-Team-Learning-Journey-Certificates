@@ -57,10 +57,8 @@ This section will showcase the certifications I’ve earned as part of my learni
    - **Introduction to Bash** (0% progress)
    - **Introduction to Python** (22% progress)
 
-2. Continue refining my skills in:
-   - Dark Web Operations (currently at 84%)
 
-3. Apply these skills to practical projects and case studies.
+2. Apply these skills to practical projects and case studies.
 
 ---
 
