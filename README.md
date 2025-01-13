@@ -8,20 +8,19 @@ Below is an overview of my progress in the training courses:
 ### **Training Courses**
 | Course Name                           | Completion Date|
 |---------------------------------------|----------------|
-| Introduction to Network Analysis      | 2024-05-29     |
-| Introduction to OSINT                 | 2024-07-30     |
-| Introduction to Digital Forensics     | 2024-07-24     |
-| Introduction to Dark Web Operations   | 2024-05-28     |
-| Introduction to Threat Hunting        | 2024-07-31     |
-| Introduction to Vulnerability Management | 2024-07-31  |
-| Mental Health in Cybersecurity        | 2024-08-02     |
-| Blue Team Junior Analyst Pathway Bundle | 2024-07-31   |
-| Introduction to Virtual Machines      | 2024-05-28     |
+| [Introduction to Network Analysis](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Network%20Analysis-course.pdf)      | 2024-05-29     |
+| [Introduction to OSINT](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20OSINT-course.pdf)                 | 2024-07-30     |
+| [Introduction to Digital Forensics](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Digital%20Forensics-course.pdf)     | 2024-07-24     |
+| [Introduction to Dark Web Operations](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Dark%20Web%20Operations-course.pdf)   | 2024-05-28     |
+| [Introduction to Threat Hunting](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Threat%20Hunting-course.pdf)       | 2024-07-31     |
+| [Introduction to Vulnerability Management](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Vulnerability%20Management-course.pdf) | 2024-07-31  |
+| [Mental Health in Cybersecurity](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Mental%20Health%20in%20Cybersecurity-course.pdf)        | 2024-08-02     |
+| [Blue Team Junior Analyst Pathway Bundle](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf) | 2024-07-31   |
+| [Introduction to Virtual Machines](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Virtual%20Machines-course.pdf)      | 2024-05-28     |
+| [Introduction to PowerShell](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)            | 2024-10-23     |
 | Cybersecurity Interview Preparation   | 2024-05-28     |
 | Introduction to Python                | 22%      |
 | Introduction to Bash                  | 0%       |
-| Introduction to PowerShell            | 2024-10-23     |
-
 ---
 
 ## Highlights of My Learning Journey
