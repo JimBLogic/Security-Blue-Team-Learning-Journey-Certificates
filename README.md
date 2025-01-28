@@ -19,7 +19,7 @@ Below is an overview of my progress in the training courses:
 | [Introduction to Virtual Machines](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Virtual%20Machines-course.pdf)      | 05/28/2024    |
 | [Introduction to PowerShell](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)            | 10/23/2024    |
 | Cybersecurity Interview Preparation   | 05/28/2024    |
-| Introduction to Python                | 01/28"2025      |
+| [Introduction to Python](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Python-course.pdf                | 01/28"2025      |
 | Introduction to Bash                  | 0%       |
 ---
 
@@ -54,7 +54,6 @@ This section will showcase the certifications I’ve earned as part of my learni
 ## Next Steps
 1. Complete the remaining courses:
    - **Introduction to Bash** (0% progress)
-   - **Introduction to Python** (22% progress)
 
 
 2. Apply these skills to practical projects and case studies.
