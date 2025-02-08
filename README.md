@@ -51,15 +51,6 @@ This section will showcase the certifications I’ve earned as part of my learni
 
 ---
 
-## Next Steps
-1. Complete the remaining courses:
-   - **Introduction to Bash** (0% progress)
-
-
-2. Apply these skills to practical projects and case studies.
-
----
-
 ## Connect With Me
 Feel free to connect with me to discuss blue team strategies, share insights, or collaborate on projects. Let’s grow together in the cybersecurity field!
 
