@@ -26,10 +26,10 @@ Below is an overview of my progress in the training courses:
 ## Highlights of My Learning Journey
 
 ### **Learn, Practice, Prove**
-I’ve been actively developing and refining my blue team skills through engaging courses that focus on network analysis, OSINT, digital forensics, and more. Each step brings me closer to mastering these critical skills, preparing me for real-world cybersecurity challenges.
+I’ve been actively developing and refining my blue team skills through engaging courses that focus on network analysis, OSINT, digital forensics, and more. Each step strengthens my foundational understanding and prepares me for further hands-on defensive practice.
 
 ### **Get Hands-On**
-The practical labs and exercises in these courses have provided invaluable experience. By working directly with tools and techniques used in cybersecurity, I’ve gained a deeper understanding of blue team operations.
+The practical labs and exercises in these courses have provided invaluable experience. By working through guided tools and techniques, I’ve developed a stronger understanding of Blue Team fundamentals.
 
 ### **Track and Measure Progress**
 Security Blue Team’s platform makes it easy to track my learning progress. Seeing my accomplishments motivates me to continue learning and improving my skills.
@@ -42,7 +42,7 @@ Courses like “Cybersecurity Interview Preparation” and “Mental Health in C
 ## Why Security Blue Team?
 Security Blue Team’s interactive and comprehensive courses have been a game-changer for me. Their focus on hands-on learning and practical application ensures that I’m not just learning theory but also gaining the experience needed to tackle real-world scenarios.
 
-From foundational knowledge to advanced techniques, the platform has been pivotal in my growth as a blue team professional.
+From foundational knowledge to advanced techniques, the platform has supported my development toward an entry-level Blue Team role.
 
 ---
 
