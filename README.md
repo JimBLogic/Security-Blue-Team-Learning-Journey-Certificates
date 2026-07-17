@@ -40,7 +40,7 @@ Courses like “Cybersecurity Interview Preparation” and “Mental Health in C
 ---
 
 ## Why Security Blue Team?
-Security Blue Team’s interactive and comprehensive courses have been a game-changer for me. Their focus on hands-on learning and practical application ensures that I’m not just learning theory but also gaining the experience needed to tackle real-world scenarios.
+Security Blue Team’s interactive and comprehensive courses have been a game-changer for me. Their focus on hands-on learning complements theory with guided defensive practice.
 
 From foundational knowledge to advanced techniques, the platform has supported my development toward an entry-level Blue Team role.
 
