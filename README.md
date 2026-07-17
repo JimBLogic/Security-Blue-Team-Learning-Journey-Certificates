@@ -46,8 +46,8 @@ From foundational knowledge to advanced techniques, the platform has been pivota
 
 ---
 
-## Certifications
-This section will showcase the certifications I’ve earned as part of my learning journey. I will upload my certificates here for easy access and to demonstrate my achievements.
+## Certificate Evidence
+The linked course names in the progress table open the corresponding certificate PDFs stored in this repository. **Cybersecurity Interview Preparation** is recorded as completed, but no certificate file is currently included for that course.
 
 ---
 
