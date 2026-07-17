@@ -6,30 +6,30 @@ Welcome to my Security Blue Team learning journey! This repository documents my 
 Below is an overview of my progress in the training courses:
 
 ### **Training Courses**
-| Course Name                           | Completion Date|
+| Course Name                           | Completion Date (ISO) |
 |---------------------------------------|----------------|
-| [Introduction to Network Analysis](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Network%20Analysis-course.pdf)      | 05/29/2024    |
-| [Introduction to OSINT](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20OSINT-course.pdf)                 | 07/30/2024     |
-| [Introduction to Digital Forensics](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Digital%20Forensics-course.pdf)     | 07/24/2024     |
-| [Introduction to Dark Web Operations](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Dark%20Web%20Operations-course.pdf)   | 05/28/2024     |
-| [Introduction to Threat Hunting](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Threat%20Hunting-course.pdf)       | 07/31/2024     |
-| [Introduction to Vulnerability Management](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Vulnerability%20Management-course.pdf) | 07/31/2024  |
-| [Mental Health in Cybersecurity](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Mental%20Health%20in%20Cybersecurity-course.pdf)        | 08/02/2024     |
-| [Blue Team Junior Analyst Pathway Bundle](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf) | 07/31/2024   |
-| [Introduction to Virtual Machines](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Virtual%20Machines-course.pdf)      | 05/28/2024    |
-| [Introduction to PowerShell](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)            | 10/23/2024    |
-| Cybersecurity Interview Preparation   | 05/28/2024    |
-| [Introduction to Python](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20Python-course.pdf)                | 01/28/2025      |
-| [Introduction to Bash](https://github.com/JimBLogic/Security-Blue-Team-Learning-Journey/blob/main/certs/Introduction%20to%20PowerShell-course.pdf)                  | 02/08/2025      |
+| [Introduction to Network Analysis](./certs/Introduction%20to%20Network%20Analysis-course.pdf)      | 2024-05-29    |
+| [Introduction to OSINT](./certs/Introduction%20to%20OSINT-course.pdf)                 | 2024-07-30     |
+| [Introduction to Digital Forensics](./certs/Introduction%20to%20Digital%20Forensics-course.pdf)     | 2024-07-24     |
+| [Introduction to Dark Web Operations](./certs/Introduction%20to%20Dark%20Web%20Operations-course.pdf)   | 2024-05-28     |
+| [Introduction to Threat Hunting](./certs/Introduction%20to%20Threat%20Hunting-course.pdf)       | 2024-07-31     |
+| [Introduction to Vulnerability Management](./certs/Introduction%20to%20Vulnerability%20Management-course.pdf) | 2024-07-31  |
+| [Mental Health in Cybersecurity](./certs/Mental%20Health%20in%20Cybersecurity-course.pdf)        | 2024-08-02     |
+| [Blue Team Junior Analyst Pathway Bundle](./certs/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja.pdf) | 2024-07-31   |
+| [Introduction to Virtual Machines](./certs/Introduction%20to%20Virtual%20Machines-course.pdf)      | 2024-05-28    |
+| [Introduction to PowerShell](./certs/Introduction%20to%20PowerShell-course.pdf)            | 2024-10-23    |
+| Cybersecurity Interview Preparation   | 2024-05-28    |
+| [Introduction to Python](./certs/Introduction%20to%20Python-course.pdf)                | 2025-01-28      |
+| [Introduction to Bash](./certs/Introduction%20to%20Bash-course.pdf)                  | 2025-02-08      |
 ---
 
 ## Highlights of My Learning Journey
 
 ### **Learn, Practice, Prove**
-I’ve been actively developing and refining my blue team skills through engaging courses that focus on network analysis, OSINT, digital forensics, and more. Each step brings me closer to mastering these critical skills, preparing me for real-world cybersecurity challenges.
+I’ve been actively developing and refining my blue team skills through engaging courses that focus on network analysis, OSINT, digital forensics, and more. Each step strengthens my foundational understanding and prepares me for further hands-on defensive practice.
 
 ### **Get Hands-On**
-The practical labs and exercises in these courses have provided invaluable experience. By working directly with tools and techniques used in cybersecurity, I’ve gained a deeper understanding of blue team operations.
+The practical labs and exercises in these courses have provided invaluable experience. By working through guided tools and techniques, I’ve developed a stronger understanding of Blue Team fundamentals.
 
 ### **Track and Measure Progress**
 Security Blue Team’s platform makes it easy to track my learning progress. Seeing my accomplishments motivates me to continue learning and improving my skills.
@@ -40,17 +40,17 @@ Courses like “Cybersecurity Interview Preparation” and “Mental Health in C
 ---
 
 ## Why Security Blue Team?
-Security Blue Team’s interactive and comprehensive courses have been a game-changer for me. Their focus on hands-on learning and practical application ensures that I’m not just learning theory but also gaining the experience needed to tackle real-world scenarios.
+Security Blue Team’s interactive and comprehensive courses have been a game-changer for me. Their focus on hands-on learning complements theory with guided defensive practice.
 
-From foundational knowledge to advanced techniques, the platform has been pivotal in my growth as a blue team professional.
-
----
-
-## Certifications
-This section will showcase the certifications I’ve earned as part of my learning journey. I will upload my certificates here for easy access and to demonstrate my achievements.
+From foundational knowledge to advanced techniques, the platform has supported my development toward an entry-level Blue Team role.
 
 ---
 
-## Connect With Me
-Feel free to connect with me to discuss blue team strategies, share insights, or collaborate on projects. Let’s grow together in the cybersecurity field!
+## Certificate Evidence
+The linked course names in the progress table open the corresponding certificate PDFs stored in this repository. **Cybersecurity Interview Preparation** is recorded as completed, but no certificate file is currently included for that course.
+
+---
+
+## Related Portfolio
+[View the full certifications and learning journey](https://jimblogic.github.io/#certifications).
 
