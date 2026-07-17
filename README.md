@@ -51,6 +51,6 @@ The linked course names in the progress table open the corresponding certificate
 
 ---
 
-## Connect With Me
-Feel free to connect with me to discuss blue team strategies, share insights, or collaborate on projects. Let’s grow together in the cybersecurity field!
+## Related Portfolio
+[View the full certifications and learning journey](https://jimblogic.github.io/#certifications).
 
