@@ -1,0 +1,20 @@
+name: Security Blue Team evidence link integrity
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  static-evidence-check:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Checkout read-only, no Git credentials after checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          persist-credentials: false
+      - name: Check local PDF links and training claims without opening PDFs
+        run: python3 -m unittest discover -s tests -p 'test_*.py' -v
