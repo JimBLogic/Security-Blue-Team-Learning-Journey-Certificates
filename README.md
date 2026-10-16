@@ -49,6 +49,8 @@ From foundational knowledge to advanced techniques, the platform has supported m
 ## Certificate Evidence
 The linked course names in the progress table open the corresponding certificate PDFs stored in this repository. **Cybersecurity Interview Preparation** is recorded as completed, but no certificate file is currently included for that course.
 
+These documents are **training/course-completion evidence**, not proof of paid professional experience or of holding the separate Security Blue Team Level 1 (BTL1) certification. A passing [automated evidence-link check](.github/workflows/evidence-links.yml) means the referenced local file names exist; it does **not** establish certificate authenticity, actual completion dates or document privacy.
+
 ---
 
 ## Related Portfolio
